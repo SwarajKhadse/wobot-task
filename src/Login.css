@@ -1,0 +1,34 @@
+.bod{
+    background-color: white;
+}
+.main-cont{
+width: 560px;
+position: relative;
+width: 560px;
+height: 611px;
+margin-left: auto;
+margin-right: auto;
+top: -550px;
+padding-left: 30px;
+padding-right: 30px;
+
+}
+.logo-second{
+    background-image: url('./asset/images/Solid_lines.png');
+    height: 50px;
+    width: 54px;   
+     position: relative;
+margin-left: auto;
+margin-right: auto;
+}
+.form{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.terms{
+    position: relative;
+}
+.butt{
+    margin-left: 5px;
+    margin-bottom: 2px;
+}
